@@ -6,7 +6,16 @@ pinned = false
 tags = ["Ideen", "Webseite", "kreieren", "programmieren", "Flyer", "online", "planen", "Chat", "Kalender"]
 description = ""
 +++
-**Ideen**
+**Lernmodus:**
+
+* Webseite erstellen 
+* Apps erstellen
+* programmieren können
+* Flyer 
+
+
+
+**Meine Ideen**
 
 Geburtstagsfest, Schulevents, Firmenjubiläum, Hochzeit, egal welches Fest, wenn mehrere Leute eingeladen sind, braucht jeder von uns Unterstützung beim planen. Mein Idee/Ziel ist ein Applikation oder Plattform zu erstellen, indem die Menschen beim planen von Events hilft und so wird für jeden von uns einfacher. Bei diesem Plattform wird auch Ideen Vorlage geben, die ich selber planen konnte oder mein eigenes Event in dieser Richtung planen würde. Beim 
 
