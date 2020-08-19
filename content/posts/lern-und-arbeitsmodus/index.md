@@ -4,6 +4,7 @@ date = "2020-08-12"
 draft = false
 pinned = false
 tags = ["Ideen", "Webseite", "kreieren", "programmieren", "Flyer", "online", "planen", "Chat", "Kalender"]
+image = "professionelle-webseite.jpg"
 description = ""
 +++
 **Lernmodus:**
@@ -13,7 +14,7 @@ description = ""
 * programmieren können
 * Flyer 
 
-
+  ![](photodune-5819153-website-s.jpg)
 
 **Meine Ideen**
 
