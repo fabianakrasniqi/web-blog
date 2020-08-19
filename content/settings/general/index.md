@@ -1,7 +1,7 @@
 +++
 headless = true
-title = "Fabiana Krasniqi"
-description = "mein Blog"
+title = "Fabiana's Blog"
+description = "Welcome!"
 footerLeft = "Powered by ❤️ and [lernblog.ch](https://www.lernblog.ch)"
 footerRight = ""
 +++
