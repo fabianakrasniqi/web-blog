@@ -8,4 +8,6 @@ description = "Seite über mich"
 
 ## Fabiana Krasniqi
 
+**bwd** | Bildungszentrum für Wirtschaft und Dienstleistung
+
 info@lernblog.ch
