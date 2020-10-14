@@ -4,7 +4,7 @@ date = "2020-08-12"
 draft = false
 pinned = false
 tags = ["Ideen", "Webseite", "kreieren", "programmieren", "Flyer", "online", "planen", "Chat", "Kalender"]
-image = "professionelle-webseite.jpg"
+image = "77188223-arbeitsmodus-auf-inspiration-konzept.jpg"
 description = ""
 +++
 **Lernmodus:**
