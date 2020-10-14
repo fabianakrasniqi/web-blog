@@ -4,7 +4,7 @@ draft = false
 image = ""
 description = "Seite über mich"
 +++
-![](/img/default-author.png)
+![](bild2.png)
 
 ## Fabiana Krasniqi
 
