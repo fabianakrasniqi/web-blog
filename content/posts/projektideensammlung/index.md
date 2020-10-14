@@ -3,6 +3,7 @@ title = "Projektideensammlung"
 date = "2020-08-26"
 draft = false
 pinned = false
+image = "24fba8b1-b941-466c-8954-edab1d078735.jpg"
 +++
 ![](24fba8b1-b941-466c-8954-edab1d078735.jpg)
 
