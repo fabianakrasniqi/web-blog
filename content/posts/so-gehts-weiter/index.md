@@ -3,6 +3,7 @@ title = "so geht's weiter..."
 date = "2020-11-04"
 draft = false
 pinned = false
+image = "board-1647323_1920-1024x683.jpg"
 +++
 ***Programmieren***
 
