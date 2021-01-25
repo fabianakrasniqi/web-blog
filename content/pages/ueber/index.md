@@ -6,7 +6,7 @@ description = "Seite über mich"
 +++
 ![](bild2.png)
 
-## Fabiana Krasniqi
+## Fabiana
 
 **bwd** | Bildungszentrum für Wirtschaft und Dienstleistung
 
